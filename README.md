@@ -1,10 +1,7 @@
 # GLNSA-FJSP-2020
-GLNSA algorithm to solve the FJSP
-Global-Local Neighborhood Search Algorithm (GLNSA)
-%
-%  Source codes demo version 1.0
-%
-%  Developed in MATLAB R2015a(7.08)
+Global-Local Neighborhood Search Algorithm (GLNSA) to solve the FJSP
+
+Developed in MATLAB R2015a(7.08)
 %
 %  Author and programmer: Juan Carlos Seck Tuoh Mora
 %
