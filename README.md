@@ -1,5 +1,5 @@
 # GLNSA-FJSP-2020
-Global-Local Neighborhood Search Algorithm (GLNSA) to solve the FJSP
+Global-Local Neighborhood Search Algorithm (GLNSA) to solve the Flexible Job Shop Scheduling Problem (FJSP).
 
 Developed in MATLAB R2015a(7.08)
 
